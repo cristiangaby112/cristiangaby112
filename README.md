@@ -1,5 +1,4 @@
-<h1><img src="![¡hi I am Cristian Barriento! (1)](https://user-images.githubusercontent.com/80364197/129426231-256f74ba-e27b-4a56-a02a-d6b819178a83.png)
-" alt="banner" /></h1>
+<h1><img src="./images/¡hi I am Cristian Barriento! (1).png" alt="banner" /></h1>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=cristiangaby112&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangaby112" /> </p>
 
