@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 <h1><img src="./images/FotoJet.jpg" alt="banner" width="100%"></h1>
 =======
->>>>>>> 4c4fe8ef0a276c97c0ae2e44c700ed553db9bad1
+
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=cristiangaby112&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangaby112" /> </p>
 
