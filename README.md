@@ -1,5 +1,5 @@
 
-<h1><img src="./images/FotoJet.jpg" alt="banner" width="100%" height= "315"></h1>
+<h1><img src="./images/FotoJet.jpg" alt="banner" width="851" height= "315"></h1>
 
 
 
