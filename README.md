@@ -42,7 +42,7 @@
 
 - 📄 Know about my experiences on my [Resume]()
 
-- ⚡ Fun fact: **I am a curious person, self-taught and looking to grow as a professional**
+- ⚡ Fun fact: **I am passionate about programming, always looking for new challenges.**
 
 <hr/>
 
