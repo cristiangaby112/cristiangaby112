@@ -1,4 +1,4 @@
-<h1><img src="./images/¡hi I am Cristian Barriento! (1).png" alt="banner" width="100%"></h1>
+<h1><img src="./images/FotoJet.jpg" alt="banner" width="50%"></h1>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=cristiangaby112&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangaby112" /> </p>
 
